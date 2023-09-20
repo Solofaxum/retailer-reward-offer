@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "customer": "Solomon",
+      "month": "September",
+      "amount": "50",
+      "id": 1
+    },
+    {
+      "customer": "Boss",
+      "month": "September",
+      "amount": "200",
+      "id": 2
+    }
+  ]
+}

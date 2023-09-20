@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "customer": "Customer A",
+      "month": "January",
+      "amount": 120
+    },
+    {
+      "id": 2,
+      "customer": "Customer A",
+      "month": "February",
+      "amount": 80
+    },
+    {
+      "id": 3,
+      "customer": "Customer B",
+      "month": "January",
+      "amount": 150
+    },
+    {
+      "id": 4,
+      "customer": "Customer B",
+      "month": "February",
+      "amount": 70
+    }
+  ]
+}
